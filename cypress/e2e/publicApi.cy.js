@@ -1,4 +1,3 @@
-// cypress/integration/api.spec.js
 
 describe('SWAPI API Tests', () => {
     const API_URL = Cypress.env('PUBLIC_API_URL')
